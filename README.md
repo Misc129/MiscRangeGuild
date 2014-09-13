@@ -1,4 +1,4 @@
 MiscRangeGuild
 ==============
 
-A automated script that trains the ranging skill at ranged guild.
+An automated script that trains the ranging skill at ranged guild.
